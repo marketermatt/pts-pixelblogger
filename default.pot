@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pixelblogger\n"
+"POT-Creation-Date: 2014-11-27 08:05+0100\n"
+"PO-Revision-Date: 2014-11-27 08:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:20 search.php:28 archive.php:40 index-inset.php:20
+msgid "Permanent Link to"
+msgstr ""
+
+#: index.php:21 archive.php:41
+msgid "Posted"
+msgstr ""
+
+#: index.php:32 archive.php:53 index-inset.php:23
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: index.php:45 search.php:31 archive.php:67 index-inset.php:25 single.php:26
+msgid "Tags:"
+msgstr ""
+
+#: index.php:45 search.php:31 archive.php:67 index-inset.php:25
+msgid "Posted in"
+msgstr ""
+
+#: index.php:49 search.php:20 search.php:37 archive.php:74 index-inset.php:29
+msgid "Older Entries"
+msgstr ""
+
+#: index.php:50 search.php:21 search.php:38 archive.php:75 index-inset.php:30
+msgid "Newer Entries"
+msgstr ""
+
+#: index.php:53 index-inset.php:33
+msgid "Not Found"
+msgstr ""
+
+#: index.php:54 index-inset.php:34
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: column-left.php:25 column-right.php:21 page.php:19
+msgid "Read the rest of this page"
+msgstr ""
+
+#: column-left.php:27 column-right.php:23 page.php:21 single.php:25
+#: column-inset.php:23
+msgid "Pages:"
+msgstr ""
+
+#: column-left.php:32 column-right.php:28 page.php:26 column-inset.php:28
+msgid "Edit this entry."
+msgstr ""
+
+#: functions.php:176
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: search.php:17
+msgid "Search Results"
+msgstr ""
+
+#: search.php:43
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: archive.php:20
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:20
+msgid "Category"
+msgstr ""
+
+#: archive.php:22
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:24 archive.php:26 archive.php:28
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:30
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:80
+#, php-format
+msgid ""
+"<h2 class=\"enter\">Sorry, but there aren't any posts in the %s category yet."
+"</h2>"
+msgstr ""
+
+#: archive.php:82
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr ""
+
+#: archive.php:85
+#, php-format
+msgid "<h2 class=\"center\">Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr ""
+
+#: archive.php:87
+msgid "<h2 class=\"center\">No posts found.</h2>"
+msgstr ""
+
+#: 404.php:15
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: sidebar.php:29
+msgid "You are currently browsing the archives for the"
+msgstr ""
+
+#: sidebar.php:29
+msgid "category"
+msgstr ""
+
+#: sidebar.php:32 sidebar.php:36 sidebar.php:40 sidebar.php:48
+msgid "You are currently browsing the"
+msgstr ""
+
+#: sidebar.php:32 sidebar.php:48
+msgid "blog archives"
+msgstr ""
+
+#: sidebar.php:33
+msgid "for the day"
+msgstr ""
+
+#: sidebar.php:36 sidebar.php:44
+msgid "blog archives for"
+msgstr ""
+
+#: sidebar.php:40
+msgid "blog archives for the year"
+msgstr ""
+
+#: sidebar.php:44
+msgid "You have searched the"
+msgstr ""
+
+#: sidebar.php:45
+msgid ""
+"If you are unable to find anything in these search results, you can try one "
+"of these links."
+msgstr ""
+
+#: sidebar.php:56
+msgid "Pages"
+msgstr ""
+
+#: sidebar.php:58
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:70
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:75
+msgid "Valid"
+msgstr ""
+
+#: index-inset.php:21
+msgid "Posted:"
+msgstr ""
+
+#: comments.php:12
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: single.php:23
+msgid "Read the rest of this entry"
+msgstr ""
+
+#: single.php:30
+msgid "This entry was posted"
+msgstr ""
+
+#: single.php:35
+msgid "on"
+msgstr ""
+
+#: single.php:35
+msgid "at"
+msgstr ""
+
+#: single.php:36
+msgid "and is filed under"
+msgstr ""
+
+#: single.php:37
+msgid "You can follow any responses to this entry through the"
+msgstr ""
+
+#: single.php:37
+msgid "feed."
+msgstr ""
+
+#: single.php:41
+msgid "You can <a href=\"#respond\">leave a response</a>, or"
+msgstr ""
+
+#: single.php:41 single.php:45
+msgid "trackback"
+msgstr ""
+
+#: single.php:41 single.php:45
+msgid "from your own site."
+msgstr ""
+
+#: single.php:45
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: single.php:49
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+
+#: single.php:53
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
+#: single.php:55
+msgid "Edit this entry"
+msgstr ""
+
+#: single.php:68
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: column-inset.php:21
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
